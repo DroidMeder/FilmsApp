@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FilmsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name:</string>
+    <string name="original_name">Original name:</string>
+    <string name="original_romanised_name">Original romanised name:</string>
+    <string name="director">Director:</string>
+    <string name="date_of_release">Date of release:</string>
+    <string name="description">Description:</string>
+    <string name="textview">TextView</string>
+</resources>
